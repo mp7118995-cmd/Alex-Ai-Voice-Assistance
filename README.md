@@ -216,7 +216,7 @@ def take_command():
 
 
 def run_alex():
-    # Calibrate mic ONCE at start only
+   
     print("Calibrating mic...")
     with sr.Microphone() as source:
         r.adjust_for_ambient_noise(source, duration=1)
