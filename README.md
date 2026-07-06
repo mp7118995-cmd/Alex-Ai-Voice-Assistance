@@ -16,9 +16,9 @@ An Offline AI Voice Assistant powered by Ollama that performs daily tasks using 
 ## Installation
 
 ```bash
-git clone https://github.com/mp7118995-cmd/alex.git
+git clone https://github.com/mp7118995-cmd/Alex-Ai-Voice-Assistance.git
 
-cd offline-ai-voice-assistant
+
 
 pip install -r requirements.txt
 ```
