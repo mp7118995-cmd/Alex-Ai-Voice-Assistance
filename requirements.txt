@@ -1,0 +1,7 @@
+SpeechRecognition
+requests
+edge-tts
+pygame
+PyAudio
+pyautogui
+pyperclip
